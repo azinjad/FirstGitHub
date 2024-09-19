@@ -6,7 +6,7 @@ public class Test {
 
 		System.out.println("===== Akash standard=====");
 		
-		System.out.println("===== Pushing Feature Branch====");
+		System.out.println("===== Pushing Master Branch====");
 	}
 
 }
